@@ -16,7 +16,7 @@ int main()
 	femalepercent = (female/ totalstudents) * 100;
 
 	cout << setprecision(2) << fixed << endl; // This line makes a fixed point notation with 2 decimal points 
-	cout << "The percent of female students are " << femalepercent <<"%"<< " and the percent of male students are " << malepercent << "%"<< endl; 
+	cout << "The percent of female students are " << femalepercent <<"%"<< " and the percent of male students are "<<"%" << malepercent << endl; 
 
 
 	system("pause"); 
